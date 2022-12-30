@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhoangph/pj_web.git"
+    "url": "git+https://github.com/nhoangph/webpj.git"
   },
   "keywords": [
     "pj",
@@ -20,9 +20,9 @@
   "author": "hoangpn",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nhoangph/pj_web/issues"
+    "url": "https://github.com/nhoangph/webpj/issues"
   },
-  "homepage": "https://github.com/nhoangph/pj_web#readme",
+  "homepage": "https://github.com/nhoangph/webpj#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "express": "^4.18.2",
