@@ -1,5 +1,5 @@
 {
-  "name": "webpj",
+  "name": "pj_web",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhoangph/webpj.git"
+    "url": "git+https://github.com/nhoangph/pj_web.git"
   },
   "keywords": [
     "pj",
@@ -20,9 +20,9 @@
   "author": "hoangpn",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nhoangph/webpj/issues"
+    "url": "https://github.com/nhoangph/pj_web/issues"
   },
-  "homepage": "https://github.com/nhoangph/webpj#readme",
+  "homepage": "https://github.com/nhoangph/pj_web#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "express": "^4.18.2",
